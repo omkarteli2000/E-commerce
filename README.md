@@ -1,4 +1,4 @@
-# -totalitycorp-frontend-challenge
+
 Complete MERN Stack Ecommerce App project 
 
 ## About
